@@ -1,1 +1,0 @@
-outboundFlight=#{selected_outbound_flight}&returnFlight=#{selected_return_flight}&firstName=#{firstName}&lastName=#{lastName}&address1=#{address1}&address2=#{address2}&pass1=#{passengerFullName}&numPassengers=1&creditCard=#{creditCard}&expDate=#{expDate}&seatType=Coach&seatPref=None&advanceDiscount=0&JSFormSubmit=off&buyFlights.x=54&buyFlights.y=6&.cgifields=saveCC

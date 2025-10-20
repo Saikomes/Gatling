@@ -1,1 +1,0 @@
-userSession=#{userSession}&username=#{username}&password=#{password}&login.x=47&login.y=4&JSFormSubmit=off
