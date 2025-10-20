@@ -1,0 +1,1 @@
+outboundFlight=#{selected_outbound_flight}&returnFlight=#{selected_return_flight}&numPassengers=1&advanceDiscount=0&seatType=Coach&seatPref=None&findFlights.x=40&findFlights.y=6
